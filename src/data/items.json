@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Coffee",
+      "price": 49.99,
+      "imgUrl": "/images/coffee.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Frapp",
+      "price": 79.99,
+      "imgUrl": "/images/frapp.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Juice",
+      "price": 80.99,
+      "imgUrl": "/images/juice.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MilkTea",
+      "price": 99.99,
+      "imgUrl": "/images/milktea.jpg"
+    }
+  ]
